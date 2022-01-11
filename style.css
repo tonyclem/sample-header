@@ -1,0 +1,46 @@
+body {
+  background-color: antiquewhite;
+  font-size: 18px;
+}
+
+.container {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+img {
+  max-width: 100%;
+}
+
+h1 {
+  font-size: 2rem;
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+h2 {
+  font-size: 2rem;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+article {
+  margin-bottom: 60px;
+  border: 1px solid #ccc;
+}
+.text-content {
+  padding: 30px;
+}
+
+article h2 {
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+
+footer {
+  margin: 60px;
+}
+footer p {
+  text-align: center;
+  font-size: 0.75rem;
+  font-style: italic;
+}
